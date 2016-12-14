@@ -1,0 +1,12 @@
+/*
+ * This is a very small program so I will just create a static method
+ * for sorting and will call it from main
+ */
+public class InsertionSort {
+
+	public static void main(String[] args) {
+		
+
+	}
+
+}
